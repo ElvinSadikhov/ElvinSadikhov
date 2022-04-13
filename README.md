@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ElvinSadikhov
-- 👀 I’m interested in Android (Java) development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on some interesting projects in Python
+- 👀 I’m interested in mobile development
+- 🌱 I’m currently learning Flutter
+- 💞️ I’m looking to collaborate on some interesting projects in Flutter
 - 📫 You can send an email to 'sadikhovelvinn@gmail.com'
 
 <!---
